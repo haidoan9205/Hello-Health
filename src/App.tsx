@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path='/'  element={<Counter/>} />
-        <Route path='/employee' element={<Employee/>} />
+        <Route path='/hello-health'  element={<Counter/>} />
+        <Route path='/hello-health/employee' element={<Employee/>} />
 
       </Routes>
     </Router>
