@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Hello-Health/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Hello-Health/static/js/main.4103a41c.chunk.js",
+    "main.js.map": "/Hello-Health/static/js/main.4103a41c.chunk.js.map",
+    "runtime-main.js": "/Hello-Health/static/js/runtime-main.2d445204.js",
+    "runtime-main.js.map": "/Hello-Health/static/js/runtime-main.2d445204.js.map",
+    "static/css/2.58a45539.chunk.css": "/Hello-Health/static/css/2.58a45539.chunk.css",
+    "static/js/2.d7cbf66c.chunk.js": "/Hello-Health/static/js/2.d7cbf66c.chunk.js",
+    "static/js/2.d7cbf66c.chunk.js.map": "/Hello-Health/static/js/2.d7cbf66c.chunk.js.map",
+    "static/js/3.5578166d.chunk.js": "/Hello-Health/static/js/3.5578166d.chunk.js",
+    "static/js/3.5578166d.chunk.js.map": "/Hello-Health/static/js/3.5578166d.chunk.js.map",
+    "index.html": "/Hello-Health/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/Hello-Health/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Hello-Health/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d7cbf66c.chunk.js.LICENSE.txt": "/Hello-Health/static/js/2.d7cbf66c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d445204.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.d7cbf66c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4103a41c.chunk.js"
+  ]
+}
